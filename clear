@@ -1,0 +1,17 @@
+[33mcommit a9e0969a4b8d0b57d98e6917856c66d36b85a161[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Franco Cardozo AKA Datanexplus <142462076+datanexplus@users.noreply.github.com>
+Date:   Wed Oct 2 14:48:35 2024 -0300
+
+    Edit readme.md and hello world txt
+
+[33mcommit 969d2a1bc37d0f276d604151dbcb08a48c6f1ed3[m
+Author: Franco Cardozo AKA Datanexplus <142462076+datanexplus@users.noreply.github.com>
+Date:   Wed Oct 2 14:39:40 2024 -0300
+
+    Add hello_world.txt
+
+[33mcommit f6c42aae62fc2e88c2cc65c6c2c53cc8b71be0fc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Franco Cardozo <142462076+datanexplus@users.noreply.github.com>
+Date:   Wed Oct 2 14:31:23 2024 -0300
+
+    Initial commit
